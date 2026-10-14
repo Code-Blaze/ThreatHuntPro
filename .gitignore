@@ -1,0 +1,8 @@
+dist/
+*.exe
+*.key
+ThreatHunt_*.html
+ThreatHunt_*.txt
+ThreatHunt_*.json
+ThreatHunt_*.csv
+ThreatHunt_*.log
